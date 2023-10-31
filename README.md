@@ -232,7 +232,7 @@ dan hasil yang saya dapatkan adalah 0.9367779464202626, itu berarti model ini me
 
 ## Deployment
 
-[My Estimation App](https://app-diffusion-index-in-japan-ikhsan.streamlit.app/).
+[My Estimation App](https://appmobileprice-aditya.streamlit.app/).
 
 ![Alt text](app_streamlit.png)
 
